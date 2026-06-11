@@ -16,6 +16,5 @@ body:
     id: what-happened
     attributes:
       label: Add a description.
-      value: "Type your description here..."
     validations:
       required: false
