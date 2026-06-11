@@ -4,14 +4,14 @@ body:
   - type: markdown
     attributes:
       value: |
-Hi, here are some tips for reporting SDL bugs!|
-|
-- [Are you here to ask a question?](https://wiki.libsdl.org/SDL3/HowToReportBugs#dont-use-the-bug-tracker-for-questions)|
-- [Are you sure it's an SDL bug?](https://wiki.libsdl.org/SDL3/HowToReportBugs#try-the-example-programs)|
-- [Are you sure it's SDL's memory leak?](https://wiki.libsdl.org/SDL3/HowToReportBugs#reporting-memory-leaks)|
-- [Tell us what platform you're using.](https://wiki.libsdl.org/SDL3/HowToReportBugs#tell-us-what-platform-youre-using)|
-|
-Thank you for helping make SDL better!|
+Hi, here are some tips for reporting SDL bugs! |
+ |
+- [Are you here to ask a question?](https://wiki.libsdl.org/SDL3/HowToReportBugs#dont-use-the-bug-tracker-for-questions) |
+- [Are you sure it's an SDL bug?](https://wiki.libsdl.org/SDL3/HowToReportBugs#try-the-example-programs) |
+- [Are you sure it's SDL's memory leak?](https://wiki.libsdl.org/SDL3/HowToReportBugs#reporting-memory-leaks) |
+- [Tell us what platform you're using.](https://wiki.libsdl.org/SDL3/HowToReportBugs#tell-us-what-platform-youre-using) |
+ |
+Thank you for helping make SDL better! |
 
   - type: input
     id: contact
