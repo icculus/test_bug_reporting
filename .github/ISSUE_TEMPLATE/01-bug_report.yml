@@ -1,12 +1,6 @@
 name: Bug Report
 description: File a bug report.
 body:
-  - type: checkboxes
-    attributes:
-      label: "By opening this issue, I confirm that:"
-      options:
-        - label: "I have not copy-pasted an LLM-generated response into the description."
-          required: true
   - type: markdown
     attributes:
       value: |
@@ -18,6 +12,12 @@ body:
         - [Tell us what platform you're using.](https://wiki.libsdl.org/SDL3/HowToReportBugs#tell-us-what-platform-youre-using)
 
         Thank you for helping make SDL better!
+  - type: checkboxes
+    attributes:
+      label: "By opening this issue, I confirm that:"
+      options:
+        - label: "I have not copy-pasted an LLM-generated response into the description."
+          required: true
   - type: textarea
     id: what-happened
     attributes:
